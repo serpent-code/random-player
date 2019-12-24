@@ -16,8 +16,8 @@ any extensions when "All" is passed in Filetypes field.
 But arbitrary number of case-insensitive file extensions may be passed
 in Filetypes field, separated by commas, semicolons or spaces (among other delimiters).
 
-Delimiters supported in the Path field are *?<>"'
-Delimiters supported in the Filetypes field are ;,*?<>"' and spaces.
+Delimiters supported in the Path field are \*?<>"'
+Delimiters supported in the Filetypes field are ;,\*?<>"' and spaces.
 
 When the option "Open unique files for this session" is enabled,
 it will open unique files each time but loses it's memory of files already
