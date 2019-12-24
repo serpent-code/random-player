@@ -37,8 +37,8 @@ upon being launched again.
 
 Example usage:
 
-Path : "D:\Music" , "C:\dir1*C:\dir2"
-Filetypes : "All" , "Images", "mp4" , "flv AVI Mpeg", "txt*pdf; epub"
+Path : "D:\Music" , "C:\dir1\*C:\dir2"
+Filetypes : "All" , "Images", "mp4" , "flv AVI Mpeg", "txt\*pdf; epub"
 
 Whole Filetype categories (and their short forms) and arbitrary extensions
 can also be mixed.
