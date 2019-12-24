@@ -1,6 +1,6 @@
 # random-player
 
-![alt text](https://github.com/serpent-code/random-player/blob/master/images/screenshot.jpg)
+<center>![alt text](https://github.com/serpent-code/random-player/blob/master/images/screenshot.jpg)</center>
 
 This small GUI program for Windows randomly selects files from one 
 or multiple directories and passes it to the OS to be opened.
