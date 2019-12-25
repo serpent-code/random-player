@@ -55,7 +55,7 @@ The program is written and distributed with Python 3.6.3.
 It leverages faster directory walking with os.scandir() introduced in Python 3.5
 as well as the secrets module in Python 3.6.
 
-A frozen build including python 3.6.3 is available for windows 64 bit.
+A frozen build including python 3.6.3 is available for windows 64 bit. You can find it under Releases tab in this repository.
 
 For license information please see the license file.
 
